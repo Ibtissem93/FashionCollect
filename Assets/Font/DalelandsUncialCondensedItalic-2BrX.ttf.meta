@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b8409f3667a0cfa439af7c4ac175ce6b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dalelands Uncial Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 34d368a52a52f4b48a2208a4f904c1a7, type: 3}
+  - {fileID: 12800000, guid: d68cccb15fee25840a014d1e7e5502f8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
